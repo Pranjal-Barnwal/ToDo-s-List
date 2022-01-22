@@ -1,7 +1,7 @@
 # ToDo-s-List
 ToDo's List:  its a utility site for all your NOTE-worthy needs.
 <br>
-Built with pure HTML5 & vanilla CSS
+Built with pure HTML, CSS & JavaScript
 <hr>
 Hosted on:
 <br>
