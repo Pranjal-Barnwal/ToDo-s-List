@@ -1,5 +1,6 @@
-# ToDo-s-List
-ToDo's List:  its a utility site for all your NOTE-worthy needs.
+# ToDo's List
+ToDo's List:  Its a utility site for all your NOTE-worthy needs.
+
 <br>
 Built with pure HTML, CSS & JavaScript
 <hr>
