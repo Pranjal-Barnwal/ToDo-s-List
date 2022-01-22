@@ -1,2 +1,13 @@
 # ToDo-s-List
 ToDo's List:  its a utility site for all your NOTE-worthy needs.
+<br>
+Built with pure HTML5 & vanilla CSS
+<hr>
+Hosted on:
+<br>
+▶️ https://pranjal-barnwal.github.io/ToDo-s-List/
+<hr>
+<img src="./res/todosList.jpg">
+<hr>
+<br>
+Pranjal Kumar
