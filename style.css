@@ -8,6 +8,7 @@ header{
     position: fixed;
     top: 0px;
     width: 100vw;
+    padding-right: 10px;
 }
 
 nav ul{
