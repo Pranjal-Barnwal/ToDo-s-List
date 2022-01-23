@@ -5,14 +5,11 @@
 }
 
 header{
-    position: relative;
-    top: 0px;
-}
-
-nav{
     position: fixed;
     top: 0px;
+    width: 100vw;
 }
+
 nav ul{
     color: white;
 }
@@ -21,6 +18,7 @@ main{
     background: linear-gradient(to right bottom,   #FF9671, #E57B89, #B56D97, #A36AAA, #6967A9, #1B6299);
     /* height: 95vh; */
     width: 100%;
+    padding-top: 50px;
     padding-bottom: 5vw;
 }
 
