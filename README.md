@@ -2,7 +2,7 @@
 ToDo's List:  Its a utility site for all your NOTE-worthy needs.
 
 <br>
-Built with pure HTML, CSS & JavaScript
+Built with pure HTML, CSS, BootStrap & JavaScript
 <hr>
 Hosted on:
 <br>
